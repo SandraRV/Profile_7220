@@ -18,7 +18,7 @@
 
 <#lq> a foaf:Person ;
    rdfs:label "Lord Quokka" ;
-   rdfs:comment "Associate Professor of the DCC"@es , "Profesor Asociado del DCC"@es ;
+   rdfs:comment "Ex-Professor of the DCC"@es , "Ex-Profesor del DCC"@es ;
    foaf:name "Lord Quokka Macropodidae" ;
    foaf:givenName "Quokka" ;
    foaf:familyName "Macropodidae" ;
