@@ -28,7 +28,7 @@
    <http:/users.dcc.uchile.cl/~paliaga/foaf.ttl#pa>, <http://anakena.dcc.uchile.cl/~rstapia/foaf.ttl> ;
    foaf:interest dbr:Semantic_Web , dbr:Ancient_Greek_literature , dbr:Jazz ; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:likesMovie dbr:Toy_Story , dbr:The_Jungle_Book_(1967_film) ;
+   social:likesMovie dbr:Toy_Story , dbr:The_Matrix ;
    social:hasSpiritAnimal dbr:Horse ;
    social:hasFavouritePlatonicSolid dbr:Tetrahedron ;
    foaf:myersBriggs "ISTP" ;
