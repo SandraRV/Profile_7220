@@ -23,7 +23,7 @@
    foaf:givenName "Quokka" ;
    foaf:familyName "Macropodidae" ;
    foaf:age 127 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
-   foaf:homepage <https://es.wikipedia.org/wiki/Setonix_brachyurus> ;
+   foaf:homepage <http://es.wikipedia.org/wiki/Setonix_brachyurus> ;
    foaf:img <https://github.com/SandraRV/Profile_7220/blob/main/quokka.jpeg> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>, <http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl#sb>, <http://anakena.dcc.uchile.cl/~rstapia/foaf.ttl#rt>, <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http:/users.dcc.uchile.cl/~paliaga/foaf.ttl#pa>, <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me>; 
    foaf:interest dbr:Semantic_Web , dbr:Ancient_Greek_literature , dbr:Jazz ; 
